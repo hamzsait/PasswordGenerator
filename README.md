@@ -22,3 +22,7 @@ Once these are all selected, the program will spit out a password.
 
 ![Picture of Password Generator](./Assets/Filled.png)
 
+[Link to Repo]("https://github.com/hamzsait/PasswordGenerator")
+
+[Link to Website](https://hamzsait.github.io/PasswordGenerator/)
+
