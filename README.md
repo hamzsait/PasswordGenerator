@@ -1,6 +1,6 @@
 # Password Generator
 
-This week’s homework required us to generate random passwords based on the User's input. 
+Generate a random passwords based on the user's specifications. 
 
 
 
